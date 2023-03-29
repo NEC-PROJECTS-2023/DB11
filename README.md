@@ -2,9 +2,9 @@
 Phishing URL Detection
 
 ### Team Members
-1. Sk. Chan Basha
-2. Ch.Sreekanth
-3. M.Naga Srikanth
+1. Sk.Chan Basha. 19471A05O5
+2. Ch.Sreekanth.  19471A05O5
+3. M.Naga Srikanth. 20475A0513
 
 ### Introduction
 Phishing is a social engineering attack that aims at exploiting the weakness found in the system at the user’s end. For example, a system may be technically secure enough for password theft but the unaware user may leak his/her password when the attacker sends a false update password request through forged (phished) website. For addressing this issue, a layer of protection must be added on the user side to address this problem.
